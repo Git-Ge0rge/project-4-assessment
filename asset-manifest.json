@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Git-Ge0rge/static/css/main.12c1b65b.css",
-    "main.js": "/Git-Ge0rge/static/js/main.c811c7fb.js",
-    "static/js/787.72170ad4.chunk.js": "/Git-Ge0rge/static/js/787.72170ad4.chunk.js",
-    "index.html": "/Git-Ge0rge/index.html",
-    "main.12c1b65b.css.map": "/Git-Ge0rge/static/css/main.12c1b65b.css.map",
-    "main.c811c7fb.js.map": "/Git-Ge0rge/static/js/main.c811c7fb.js.map",
-    "787.72170ad4.chunk.js.map": "/Git-Ge0rge/static/js/787.72170ad4.chunk.js.map"
+    "main.css": "/project-4-assessment/static/css/main.12c1b65b.css",
+    "main.js": "/project-4-assessment/static/js/main.a0a963be.js",
+    "static/js/787.72170ad4.chunk.js": "/project-4-assessment/static/js/787.72170ad4.chunk.js",
+    "index.html": "/project-4-assessment/index.html",
+    "main.12c1b65b.css.map": "/project-4-assessment/static/css/main.12c1b65b.css.map",
+    "main.a0a963be.js.map": "/project-4-assessment/static/js/main.a0a963be.js.map",
+    "787.72170ad4.chunk.js.map": "/project-4-assessment/static/js/787.72170ad4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12c1b65b.css",
-    "static/js/main.c811c7fb.js"
+    "static/js/main.a0a963be.js"
   ]
 }
